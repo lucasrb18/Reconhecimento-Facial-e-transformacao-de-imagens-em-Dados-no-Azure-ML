@@ -1,0 +1,16 @@
+Imagem "Github azure 2"
+
+{
+  "apim-request-id": "77fd8c6e-79ba-44ae-9994-1382b72627e1",
+  "content-length": "158",
+  "content-type": "application/json; charset=utf-8",
+  "modelVersion": "2023-10-01",
+  "captionResult": {
+    "text": "a baseball player holding a bat",
+    "confidence": 0.8214315176010132
+  },
+  "metadata": {
+    "width": 250,
+    "height": 322
+  }
+}
