@@ -1,0 +1,16 @@
+Código Json / Imagem 1
+
+{
+  "apim-request-id": "4337c3cd-cb4a-44ae-b479-2b88d8ac40b5",
+  "content-length": "150",
+  "content-type": "application/json; charset=utf-8",
+  "modelVersion": "2023-10-01",
+  "captionResult": {
+    "text": "a man in a suit smiling",
+    "confidence": 0.8173028826713562
+  },
+  "metadata": {
+    "width": 960,
+    "height": 960
+  }
+}
